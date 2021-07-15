@@ -29,3 +29,9 @@ console.log(unit16)
 
 let text = new TextDecoder().decode(unit16)
 console.log(text)
+
+// ==================================  Blob
+const helloBinar = new Uint8Array([72, 102, 108, 108, 111])
+let blob = new Blob([helloBinar, '', 'vladislav'], {type: 'text/plain'})
+
+console.log(blob)
