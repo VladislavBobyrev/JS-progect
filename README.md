@@ -1,6 +1,5 @@
-# learn language program...
 
-<h1 align="center">Тестовая страница</h1>
+<h1 align="center">learn language program...</h1>
 
 <p align="center">
 
@@ -20,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
 </p>
-
+<p align="center">
 ## Команды Git
 
 |                        |                     |
@@ -32,6 +31,6 @@
 | Протестировать         | `npm run test:unit` |
 |                        |                     |
 
-<p align="center">
+
 <img src="https://media.rusbase.com/upload_tmp/t01.gif">
 </p>
