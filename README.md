@@ -13,5 +13,5 @@
 |                        |                     |
 
 <p align="center">
-<img src="https://media.giphy.com/media/VFvkCMvXvlTNAGuaZm/giphy.gif">
+<img src="https://xakep.ru/2015/06/27/easy-hack-197/">
 </p>
