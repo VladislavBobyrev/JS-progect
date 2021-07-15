@@ -13,3 +13,19 @@ let dataView = new DataView(buffer)
 console.log( dataView.getUint8(0))
 console.log( dataView.getUint16(0))
 console.log( dataView.getUint32(0))
+
+// textDecor
+
+let uniti8 = new Uint8Array([72, 121, 108, 108, 111])
+
+console.log(new TextDecoder().decode(uniti8))
+
+// nextEncoder
+
+let encore = new TextEncoder()
+
+let unit16 = encore.encode('Valdislav imperator')
+console.log(unit16)
+
+let text = new TextDecoder().decode(unit16)
+console.log(text)
