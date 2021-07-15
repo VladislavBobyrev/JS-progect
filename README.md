@@ -20,6 +20,9 @@
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
 </p>
 <p align="center">
+<img src="https://media.rusbase.com/upload_tmp/t01.gif">
+</p>
+
 ## Команды Git
 
 |                        |                     |
@@ -32,5 +35,3 @@
 |                        |                     |
 
 
-<img src="https://media.rusbase.com/upload_tmp/t01.gif">
-</p>
